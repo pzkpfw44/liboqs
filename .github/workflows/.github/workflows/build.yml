@@ -31,3 +31,4 @@ jobs:
         cd build
         emcmake cmake .. -GNinja -DOQS_BUILD_ONLY_LIB=ON
         ninja
+ 
